@@ -3,7 +3,7 @@
 This design uses a controller datapath split enabled by the "Algorithmic State Machine Datapath" (ASMD) modeling technique. Special attention is paid to edge cases and wrapping the design for upload to physical FPGA development board.
 
 ## ASMD chart
-image
+![asmd-chart](asmd-chart.png?raw=true)
 
 ## Functional Verification
-image
+![asmd-chart](modelsim-verification-waveform.png?raw=true)
